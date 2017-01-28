@@ -1,1 +1,3 @@
-# Embedded-Feature-Slelection-for-SVM-with-integer-programming
+# Embedded Feature Selection for SVM with integer programming: Feature Selection for the SVM procedure using binary quadratic programming.
+Data used: MNIST Data
+See write up for details
